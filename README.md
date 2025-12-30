@@ -54,4 +54,4 @@ KringleCore Enterprise (v2.0) is a high-performance, aesthetically driven operat
 
 ---
 
-Built with ❤️ for the North Pole.
+Built with ❤️ for the Sumesh J.
