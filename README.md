@@ -51,7 +51,3 @@ KringleCore Enterprise (v2.0) is a high-performance, aesthetically driven operat
 - [Standard Dashboard]
 - [Route Optimization View]
 - [Post-Season Analytics]
-
----
-
-Built with ❤️ for the Sumesh J.
