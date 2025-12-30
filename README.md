@@ -44,10 +44,16 @@ KringleCore Enterprise (v2.0) is a high-performance, aesthetically driven operat
 ## 📸 Screenshots
 
 > [!NOTE]
-> Add application screenshots here for a visual overview.
+> Below are the visual highlights of the KringleCore Enterprise dashboard.
 
-*(Placeholders for screenshots)*
-- [Initial Splash Screen]
-- [Standard Dashboard]
-- [Route Optimization View]
-- [Post-Season Analytics]
+### Main Dashboard
+![Main Dashboard](src/assets/Screenshot%202025-12-30%20at%208.07.10%E2%80%AFPM.png)
+
+### Route Optimization (Dec 24)
+![Route Optimization](src/assets/Screenshot%202025-12-30%20at%208.07.03%E2%80%AFPM.png)
+
+### Post-Season Analytics (Dec 30)
+![Post-Season Analytics](src/assets/Screenshot%202025-12-30%20at%208.06.56%E2%80%AFPM.png)
+
+### Add New Gift Flow
+![Add New Gift](src/assets/Screenshot%202025-12-30%20at%208.07.17%E2%80%AFPM.png)
